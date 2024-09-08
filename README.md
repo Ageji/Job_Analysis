@@ -13,7 +13,7 @@
 To analyze job market trends and insights based on various factors such as salary, industry, company size, AI adoption, and remote work flexibility. The aim is to identify patterns, correlations, and opportunities that can help in strategic decision-making for job seekers, employers, and industry analysts.
 
 ### Data Source 
-This project was sourced from Kaggle and involves an in-depth analysis of job-related factors across various industries. The dataset contains data on individual job titles, company sizes, locations, AI adoption levels, automation risks, required skills, and salaries, among others. Key demographic and job-related variables, such as remote work opportunities and projected job growth, were explored to understand their impact on salary distribution and career development trends. The analysis also focused on identifying patterns in how automation risk and AI adoption influence job security and career opportunities across different industries and company sizes.
+This project was conducted using a dataset sourced from Kaggle, focusing on a comprehensive analysis of the job market across various industries and job titles. The dataset includes information such as job titles, company sizes, locations, AI adoption levels, automation risks, required skills, salaries, and job growth projections. The goal of this analysis was to uncover key trends in job salaries, remote work opportunities, automation risk, and AI adoption.
 
 ### Tools
 - Excel- Cleaning
